@@ -1,4 +1,4 @@
-# crawling
+# crawling 공부
 # python을 활용한 크롤링
 
 ## 1. 기본설정
